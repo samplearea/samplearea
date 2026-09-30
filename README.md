@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/yusufsefayetkin/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:yusufsefayetkin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://github.com/samplearea/samplearea/blob/master/Yusuf-Sefa-Yetkin-CV.pdf">
+    <img src="https://img.shields.io/badge/CV-PDF-C8102E?logo=adobeacrobatreader&logoColor=white" alt="CV" />
   </a>
   <a href="https://www.instagram.com/samplearea/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
