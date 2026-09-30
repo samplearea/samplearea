@@ -17,22 +17,35 @@
 
 <h2>:bulb: Languages</h2>
 
-<code><img title="C#" alt="csharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-<code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="TypeScript" alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-<code><img title="React" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="TypeScript" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts" /></code>
+<code><img title="Python" alt="python" width="40px" src="https://skillicons.dev/icons?i=py" /></code>
+<code><img title="Next.js" alt="nextjs" width="40px" src="https://skillicons.dev/icons?i=nextjs" /></code>
+<code><img title="React" alt="react" width="40px" src="https://skillicons.dev/icons?i=react" /></code>
+<code><img title="React Native" alt="react native" width="40px" src="https://skillicons.dev/icons?i=reactnative" /></code>
+<code><img title="Node.js" alt="nodejs" width="40px" src="https://skillicons.dev/icons?i=nodejs" /></code>
+<code><img title="JavaScript" alt="javascript" width="40px" src="https://skillicons.dev/icons?i=js" /></code>
+<code><img title="PostgreSQL" alt="postgresql" width="40px" src="https://skillicons.dev/icons?i=postgres" /></code>
+<code><img title="Docker" alt="docker" width="40px" src="https://skillicons.dev/icons?i=docker" /></code>
+<code><img title="MongoDB" alt="mongodb" width="40px" src="https://skillicons.dev/icons?i=mongodb" /></code>
+
+<br><br>
+
+<code><img title="C#" alt="csharp" width="30px" src="https://skillicons.dev/icons?i=cs" /></code>
+<code><img title=".NET" alt="dotnet" width="30px" src="https://skillicons.dev/icons?i=dotnet" /></code>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://skillicons.dev/icons?i=html" /></code>
+<code><img title="CSS 3" alt="css3" width="30px" src="https://skillicons.dev/icons?i=css" /></code>
+<code><img title="SQLite" alt="sqlite" width="30px" src="https://skillicons.dev/icons?i=sqlite" /></code>
+<code><img title="MATLAB" alt="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></code>
 
 <br><br>
 
 <h2>:hammer_and_wrench: Platforms</h2>
 
-<code><img title="Visual Studio" alt="visual studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://skillicons.dev/icons?i=git" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://skillicons.dev/icons?i=github" /></code>
+<code><img title="Postman" alt="postman" width="30px" src="https://skillicons.dev/icons?i=postman" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://skillicons.dev/icons?i=vscode" /></code>
+<code><img title="Visual Studio" alt="visual studio" width="30px" src="https://skillicons.dev/icons?i=visualstudio" /></code>
 
 <br><br>
 
