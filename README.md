@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Hi 👋, I'm Yusuf Sefa Yetkin</h1>
+<h1 align="center">Hi, I'm Yusuf Sefa Yetkin</h1>
 <p align="center">Software Developer · Artificial Intelligence · IoT</p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h2>:bulb: Languages</h2>
+<h2>Languages</h2>
 
 <code><img title="TypeScript" alt="typescript" width="40px" src="https://skillicons.dev/icons?i=ts" /></code>
 <code><img title="Python" alt="python" width="40px" src="https://skillicons.dev/icons?i=py" /></code>
@@ -39,7 +39,7 @@
 
 <br><br>
 
-<h2>:hammer_and_wrench: Platforms</h2>
+<h2>Platforms</h2>
 
 <code><img title="Git" alt="git" width="30px" src="https://skillicons.dev/icons?i=git" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://skillicons.dev/icons?i=github" /></code>
